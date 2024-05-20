@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-movie-ad/static/css/main.d13eeba9.css",
+    "main.js": "/react-movie-ad/static/js/main.a927a9bc.js",
+    "static/media/MESA_HOME.png": "/react-movie-ad/static/media/MESA_HOME.98dca2dffbfe259aaac5.png",
+    "static/media/MESA_HOME2.png": "/react-movie-ad/static/media/MESA_HOME2.5dade0a1a4c0db8babcf.png",
+    "index.html": "/react-movie-ad/index.html",
+    "main.d13eeba9.css.map": "/react-movie-ad/static/css/main.d13eeba9.css.map",
+    "main.a927a9bc.js.map": "/react-movie-ad/static/js/main.a927a9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d13eeba9.css",
+    "static/js/main.a927a9bc.js"
+  ]
+}
